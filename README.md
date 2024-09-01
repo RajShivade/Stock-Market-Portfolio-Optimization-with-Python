@@ -181,7 +181,7 @@ This script calculates and visualizes the distribution of daily returns for each
   - Grid: A grid is added to the plot for better readability.
   - Layout: plt.tight_layout() is used to ensure that all plot elements fit nicely within the figure, preventing overlapping or cutoff text.
 
-# Output:
+# Outcome:
 When you run this script, you'll see a single figure containing overlapping histograms of the daily returns for each stock ticker (Reliance, TCS, Infosys, HDFC Bank). Each histogram is color-coded according to the stock ticker, and the KDE lines provide a smoothed view of each distribution.
 
 This visualization helps in understanding the return distribution for each stock, showing how frequently certain returns occur, and giving insights into the volatility and risk profile of each stock. Stocks with wider distributions and more extreme daily returns might be considered more volatile, while narrower distributions indicate more stable performance.
