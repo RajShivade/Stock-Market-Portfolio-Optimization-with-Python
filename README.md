@@ -81,7 +81,7 @@ This script visualizes the adjusted close prices of different stocks over time u
 
 - The plt.show() function is called to display the plot.
 
-** Output Visualization:**
+**Output Visualization:**
 
 When you run this script, you'll see a line plot with the adjusted close prices of each stock (Reliance, TCS, Infosys, HDFC Bank) plotted over time. The lines will be distinct for each stock due to the color coding provided by hue='Ticker'. Markers on the lines will indicate the actual data points, and the grid will make it easier to see trends and changes in stock prices over time.
 This visualization provides a clear comparison of how different stocks have performed over the selected time period.
