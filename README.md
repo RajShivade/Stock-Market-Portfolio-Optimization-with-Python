@@ -212,6 +212,13 @@ TCS has the highest allocation, which indicates its significant contribution to 
 
 So, this is how stock market portfolio optimization works. Stock market portfolio optimization involves analyzing price trends, calculating expected returns and volatilities, and determining the correlations between different stocks to achieve diversification.
 
+## 👨‍💻 Author :-
+
+**Raj Shivade**  
+📘 [LinkedIn](http://www.linkedin.com/in/raj-shivade25)  
+💻 [GitHub](https://github.com/RajShivade)
+
+
 # OUTPUT:
 https://github.com/user-attachments/assets/b56048e8-efda-4f98-a1d6-7ffca93db478
 
